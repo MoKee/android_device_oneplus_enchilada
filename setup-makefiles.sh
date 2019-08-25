@@ -19,7 +19,7 @@ set -e
 
 # Required!
 export DEVICE=enchilada
-export DEVICE_COMMON=sdm845-common
+export DEVICE_COMMON=sdm845-enchilada
 export VENDOR=oneplus
 
 export DEVICE_BRINGUP_YEAR=2018

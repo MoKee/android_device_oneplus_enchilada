@@ -14,8 +14,8 @@
 # limitations under the License.
 #
 
-# Inherit from oneplus sdm845-common
--include device/oneplus/sdm845-common/BoardConfigCommon.mk
+# Inherit from oneplus sdm845-enchilada
+-include device/oneplus/sdm845-enchilada/BoardConfigCommon.mk
 
 DEVICE_PATH := device/oneplus/enchilada
 

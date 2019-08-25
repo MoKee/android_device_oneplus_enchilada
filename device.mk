@@ -44,8 +44,8 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES += \
     OnePlusPocketMode
 
-# Inherit from oneplus sdm845-common
-$(call inherit-product, device/oneplus/sdm845-common/common.mk)
+# Inherit from oneplus sdm845-enchilada
+$(call inherit-product, device/oneplus/sdm845-enchilada/common.mk)
 
 # Inherit from vendor blobs
 #$(call inherit-product, vendor/oneplus/enchilada/enchilada-vendor.mk)
